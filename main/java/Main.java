@@ -29,7 +29,9 @@ public class Main {
             new IntroSorter(),
             new PigeonholeSorter(),
             new PancakeSorter(),
-            new StoogeSorter()
+            new StoogeSorter(),
+            //new BogoSorter(),
+            new OddEvenSorter()
     };
 
     public static void main(String[] args) {
