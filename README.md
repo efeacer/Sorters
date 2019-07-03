@@ -26,5 +26,7 @@ Implementing and testing various sorting algorithms.
 - [x] Pancake Sort
 - [x] Stooge Sort
 - [x] Bogo (Permutation) Sort
+- [x] Odd-Even Sort
 - [x] Comprehensive Testing
 - [ ] Experiments
+- [ ] Animations
