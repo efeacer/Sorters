@@ -41,7 +41,8 @@ public class SorterTests {
                 new PancakeSorter(),
                 new StoogeSorter(),
                 //new BogoSorter(),
-                new OddEvenSorter()
+                new OddEvenSorter(),
+                new BitonicSorter()
         };
         rand = new Random();
     }

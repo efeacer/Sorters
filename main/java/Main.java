@@ -1,7 +1,5 @@
 import sorting.*;
 
-import java.util.Arrays;
-
 public class Main {
 
     private static final int NUM_LOWER_BOUND = 0;
@@ -31,7 +29,8 @@ public class Main {
             new PancakeSorter(),
             new StoogeSorter(),
             //new BogoSorter(),
-            new OddEvenSorter()
+            new OddEvenSorter(),
+            new BitonicSorter()
     };
 
     public static void main(String[] args) {
